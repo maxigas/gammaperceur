@@ -1,0 +1,225 @@
+* BÀSIC
+  * so :: sound
+  * per cert :: by the way
+  * la gana :: wish
+  * la gana :: hunger
+  * el món :: world
+  * tant en tant :: occasionally
+  * algun :: some
+  * doncs :: then / so / therefore
+  * segur :: secure
+  * mateix/mateixa :: same
+  * algú :: any
+  * quin, quina :: which
+  * la vegada :: time
+  * la tecla :: key (on keyboard)
+  * el arxiu :: file
+  * la xarxa :: network
+  * la persona :: person
+  * la veu :: voice
+  * el segle :: century
+  * la introducció :: introduction
+  * el verb :: verb
+  * blau/blava/blaus/blaves :: blue
+  * bo/bona/bons/bones :: good
+  * petit/petita/petits/petites :: small
+  * la taula :: table
+  * la cadira :: chair
+  * el llit :: bed
+  * el flor :: flower
+  * el foc :: fire
+  * la colla :: group
+* ELS COLORS
+  * negre/negra/negres/negras :: black
+  * blanc/blanca/blancs/blanques :: white
+  * gris/grisa/grisos/grises :: grey
+  * vermel/vermells :: red
+  * blau/blava/blaus/blaves :: blue
+  * groc/groga/grocs/grogues :: yellow
+  * verd/verda/verds/verdes :: green
+  * taronja/taronges :: orange
+  * lila/liles :: lilac
+  * marró/marrona/marrons/marrones :: brown
+* EL ALIMENTARI
+  * el xuixo :: croissant-like filled with crema catalana
+  * la patata :: potato
+  * la cera :: wax
+  * la ceba :: onion
+  * el pa :: bread
+  * la melmelada :: jam
+  * la mantega :: butter
+* LES BEGUDES
+  * el berenar :: to have tea
+  * la llet :: milk
+  * el vi :: wine
+  * la aigua :: water
+* L'ARTICLE
+  * el/la/els/les :: the
+  * un/una/uns/unes :: a
+  * el :: the (ms)
+  * els :: the (mp)
+  * la :: the (fs)
+  * les :: the (fp)
+  * un :: a (ms)
+  * uns :: a (mp)
+  * una :: a (fs)
+  * unes :: a (fp)
+* EL VERB SER
+  * jo sóc :: I am
+  * tu ets :: you are (s)
+  * ell és :: he/she is
+  * nos som :: we are
+  * vos sou :: you are (p)
+  * ells són :: they are
+* ELS NÚMEROS
+  * el número :: number
+  * meitat :: half
+  * més :: more
+  * menys :: less
+  * u/un/una :: one
+  * dos/dues :: two
+  * tres :: three
+  * quatre :: four
+  * cinc :: five
+  * sis :: six
+  * set :: seven
+  * vuit :: eight
+  * nou :: nine
+  * deu :: ten
+  * onze :: eleven
+  * dotze :: twelve
+* EL TEMPS
+  * ara :: now
+  * abans :: before
+  * després :: later
+  * el matí :: morning
+  * la tarda :: afternoon
+  * el vespre :: evening
+  * la nit, les nits :: night
+  * el migdia :: noon
+  * la mitjanit :: midnight
+  * el minut, els minuts :: minute, minutes
+  * l'hora, les hores :: hour, hours
+  * la dia, les dies :: day, days
+  * la setmana, les setmanes :: week, weeks
+  * el mes, els mesos :: month, months
+  * el any, els anys :: year, years
+  * avui :: today
+  * ahir :: yesterday
+  * demà :: tomorrow
+  * aquesta setmana :: this week
+  * la setmana passada :: last week
+  * la setmana que ve :: next week
+* ELS PRONOMS
+  * jo :: I/me
+  * tu :: you/you (s)
+  * ell :: he/him
+  * ella :: she/her
+  * vostè :: you (formal)
+  * nosaltres :: us
+  * vosaltres :: you (p)
+  * ells :: they/them (m)
+  * elles :: they/them (f)
+  * vostrès :: you/you (p, formal)
+* ELS DIES DE LA SETMANA
+  * diumenge :: Sunday
+  * dilluns :: Monday
+  * dimarts :: Tuesday
+  * dimerces :: Wednesday
+  * dijous :: Thursday
+  * divendres :: Friday
+  * dissabte :: Saturday
+* LES ESTACIONS DE L'ANY
+  * la primavera :: spring
+  * el estiu :: summer
+  * el tardor :: autumn
+  * el hivern :: winter
+  * l'estació de l'any :: season of the year
+* GEEK
+  * Fas servir Linux o Windows? :: You use Linux or Windows?
+  * Assolint objectius. :: Mission accomplished.
+* PHRASES: EL ORDINADOR
+  * Bé, he instal·lat la 386 a un virtualbox sense problemes. :: Good, i installed the 386 in a virtualbox without problems.
+* LES PHRASES
+  * Cal anar a buscar-los dissabte a la tarda. :: You should go look for them Saturday afternoon.
+  * Tinc gana. :: I'm hungry.
+  * Per la meva part vindré. :: I for one will come.
+  * Fins demà! :: See you tomorrow!
+  * Fins després! :: See you later!
+  * Fins ara! :: See you soon!
+  * Que vage bé! :: Take care!
+  * Mala cosa, què ha passat? :: Oh my, what happened?
+  * Com va això? :: How is it going?
+  * Hola. :: Hello.
+  * Come estàs? :: How are you? (informal)
+  * Coma està? :: How are you? (formal)
+  * Molt bé, gràcies. :: Fine, thank you.
+  * Com et dius? :: What is your name? (informal)
+  * Com es diu? :: What is your name? (formal)
+  * Em dic ... :: My name is ...
+  * Molt de gust. :: Nice to meet you.
+  * sisplau / si us plau :: please x2
+  * Gràcies. / Mercès. :: Thank you. x2
+  * De res. :: You're welcome.
+  * Sí. :: Yes.
+  * No. :: No.
+  * Dispensi. / Disculpi. :: Excuse me. x2
+  * Perdoni. :: I beg your pardon.
+  * Ho sento. :: I'm sorry.
+  * Hola a tothom. :: Hello everyone.
+  * Adéu. / Adéu-siau. :: Goodbye. x2
+  * No parlo [bé] el català. :: I don't speak Catalan [well].
+  * Parles anglès? :: Do you speak English? (informal)
+  * Que parla anglès? :: Do you speak English? (formal)
+  * Que hi ha algú que parli anglès? :: Is there someone here who speaks English?
+  * Bon dia. :: Good day.
+  * Bona tarda. :: Good afternoon.
+  * Bon vespre. :: Good evening (when it is dark).
+  * Bona nit. :: Good night.
+  * No ho entenc. :: I don't understand. / You don't understand.
+  * On és el lavado? :: Where is the toilet?
+* ELS PROBLEMAS
+  * Ajuda! / Auxili! :: Help! x2
+  * Deixa'm en pau! :: Leave me alone!
+  * No em toquis! :: Don't touch me!
+  * Trucaré a la policia! :: I'll call the police!
+  * Policia! :: Police!
+  * Al lladre! :: Stop! Thief!
+  * Necessito la teva ajuda. :: I need your help.
+  * Ès una emergència. :: It is an emergency.
+  * Estic perdut. :: I'm lost. (m)
+  * Estic perduda. :: I'm lost. (f)
+  * He perdut la meva bossa. :: I lost my bag.
+  * He perdut la meva cartera. :: I lost my vallet.
+  * Estic malalt. :: I'm sick. (m)
+  * Estic malalta. :: I'm sick. (f)
+  * Estic ferit. :: I'm injured. (m)
+  * Estic ferida. :: I'm injured. (f)
+  * Necessito un metge. :: I need a doctor.
+  * Puc utilitzar el seu telèfon? :: Can I use your phone?
+  * El Departament de Bombers :: Fire Department
+* ELS VERBS
+  * netejar :: clean
+  * resoldre :: resolve
+  * canviar :: change
+  * apuntar :: register
+  * conèixer :: being acquinted
+  * seguir :: follow
+  * instal·lar :: install
+  * baixar :: download
+  * canviar :: change
+  * arribar :: arrive
+  * coure :: cook
+* EL SUPERMERCAT
+  * el sabó :: soap
+  * el sabó en pols :: washing powder
+  * l'aigua :: water
+  * el paper higiènic :: toilet paper
+  * la màquina d'afaitar :: razor
+* MÉS PHRASES
+  * Parli més a poc a poc, sisplau! :: Please, speak slowly!
+  * No trobo el carrer ... :: I don't find the street ...
+  * No trobo la plaça ... :: I don't find the square ...
+  * No trobo aquesta adreça. :: I don't find this address.
+  * entesos :: OK
+  * D'acord. :: All right.

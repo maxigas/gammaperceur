@@ -1,0 +1,247 @@
+* GRAMMAIRE
+** INTERROGATION
+   * Quel est ta profession? :: Mi a foglalkozásod?
+   * Qui est-ce? :: Ki az?
+   * Vous venez? :: Ön jön?
+   * Quel jour on est? Quel jour sommes-nous? :: Milyen nap van?
+   * Nous sommes les combien? / On est le combien? :: Hanyadika van?
+*** QQ
+    * Qu'est-ce qui...? :: Mi?
+    * Qui est-ce qui...? :: Ki?
+    * Qu'est-ce que...? :: Mit...?
+    * Qui est-ce que...? :: Kit?
+*** LES LANGUES
+    * seulement (m)
+*** DÉCISIVE
+    * Tu aimes la musique?
+    * Aimes-tu la musique?
+    * Est-ce que tu aimes la musique?
+*** INDÉCISIVE
+    * Comment tu parles?
+    * Tu parles comment?
+    * Comment parles-tu?
+    * Comment est-ce que tu parles?
+** LES VERBES
+*** EXCEPTIONELLES
+**** être
+     * Je suis
+     * Te es
+     * Il est
+     * Elle est
+     * Nous sommes
+     * Vous êtes
+     * Ils sont
+     * Elles sont
+**** avoir
+     * J'ai
+     * Tu as
+     * Il a
+     * Elle a
+     * Nous avons
+     * Vous avez
+     * Ils ont
+     * Elles ont
+**** aller
+     * Je vais
+     * Tu vas
+     * Il va
+     * Elle va
+     * Nous allons
+     * Vous allez
+     * Ils vont
+     * Elles vont
+**** faire
+     * Je fais
+     * Tu fais
+     * Il fait
+     * Elle fait
+     * Nous faisons
+     * Vous faites
+     * Ils font
+     * Elles font
+**** vouloir
+     * Je veux
+     * Tu veux
+     * Il veut
+     * Elle veut
+     * Nous voulons
+     * Vous voulez
+     * Ils veulent
+     * Elles veulent
+**** connaître
+     * Je connAIS
+     * Tu connAIS
+     * Il connAÎT
+     * Elle connAÎT
+     * Nous connAISONS
+     * Vous connAISEZ
+     * Ils connAISENT
+     * Elles connAISENT
+**** préférer
+     * Je préfÈRE
+     * Tu préfÈRES
+     * Il préfÈRE
+     * Elle préfÈRE
+     * Nous préfÉRONS
+     * Vous préfÉREZ
+     * Ils préfÈRENT
+     * Elles préfÈRENT
+**** venir
+     * Je viens
+     * Tu viens
+     * Il vient
+     * Nous venons
+     * Vouz venez
+     * Ils viennent
+     * Elle viennent
+**** voir
+     * Je vois
+     * Tu vois
+     * Il voit
+     * Elle voit
+     * Nous voyons
+     * Vous voyez
+     * Ils voient
+     * Elles voient
+**** commencer
+     * je commence
+     * tu commences
+     * il commence
+     * elle commence
+     * nous commençons
+     * vous commencent
+*** RÉGULIER
+**** I. parlER
+     * Je parlE
+     * Tu parlES
+     * Il parlE
+     * Elle parlE
+     * Nous parlONS
+     * Vous parlEZ
+     * Ils parlENT
+     * Elles parlENT
+***** S'appelER
+      * Je M'appelE
+      * Tu T'appelES
+      * Ils S'appelE
+      * Elles S'appelE
+      * Nous NOUSE appelONS
+      * Vous VOUS appelEZ
+      * Ils S'appelENT
+      * Elles S'appelENT
+**** II. liRE
+     * Je liS
+     * Tu liS
+     * Il liT
+     * Elle liT
+     * Nous lisONS
+     * Vous lisEZ
+     * Ils lisENT
+     * Elles lisENT
+**** III. ouvrIR
+**** IV. -OIR
+** LES ARTICLES
+*** Défini
+    * le (m)
+    * la (f)
+    * les (mm/ff)
+    * aprés :: aimer, adorer, préferer, détester, etc.
+*** Indéfini
+    * un (m)
+    * une (f)
+    * des (mm/ff)
+*** Posessif
+** L'ARTICLE PARTITIF
+   * du :: de + le
+   * de la :: de + la
+   * de l' :: de + l'
+   * de :: NÉGATION
+** NÉGATION
+   * NE <noun> PAS
+
+
+** LA PLACE DE L'ADJECTIF
+   * par défaut: <noun> <adjectif>
+   * adjectifs physicale: <adjectif> <noun>
+
+** LES FORMES DE L'ADJECTIF
+*** beau
+    * un beau film :: (ms)
+    * un bel homme :: (msv)
+    * des beaux films :: (mp)
+    * des beaux hommes :: (mpv)
+    * une belle voiture :: (fs)
+    * des belles voitures :: (fp)
+*** nouveau
+    * un nouveau film :: (ms)
+    * un nouvel homme :: (msv)
+    * des nouveaux films :: (mp)
+    * des nouveaux hommes :: (mpv)
+    * une nouvelle voiture :: (fs)
+    * des nouvelles voitures :: (fp)
+** LE PRONOM PERSONNEL "ON"
+** LES PRÉPOSITIONS DE LIEU
+   * à :: avant des villes: à Paris, à Budapest, à Londres
+   * au :: au cinèma
+   * à l' :: à l'école
+   * à la :: à la montaigne
+   * aux :: aux États-Unis, aux Bahamas
+*** AVANT LES PAYES
+    * en :: (f): en France, en Iran, 
+    * en :: (v): en Autriche, en Espagne
+    * aux :: (p): aux États-Unis
+    * à :: (îles): à Cuba, à Monaco, à Chypre, à Israël, à Haïti
+    * au :: (mc): au Japon
+*** AVANTS LES CONTINENTS
+    * en :: en Amérique, en Europe, en Afrique
+*** AVANTS LES RÉGIONS
+    * en :: en Franche-Comté, en Languedoc-Roussillon
+** LES ADJECTIF POSSESSIFS
+   * mon :: (m) + (fv)
+   * ton :: (m) + (fv)
+   * son :: (m) + (fv)
+   * ma :: (fc)
+   * ta :: (fc)
+   * sa :: (fc)
+   * mes :: (p)
+   * tes :: (p)
+   * ses :: (p)
+** LES PRÉNOMS
+*** moi
+    * moi
+    * toi
+    * lui
+    * elle
+    * nous
+    * vous
+    * eux
+    * elles
+** IL Y A
+   * IL Y A un chat dans le jardin.
+   * NÉGATION :: Il n'y a pas DE chat fans le jardin.
+** INDICATEURS TEMPORELS
+   * encore :: még
+   * déjà :: már
+   * toujours :: mindig
+   * depuis :: Je le connais *depuis* 20 ans. - 20 éve ismerem.
+   * pendant :: Elle regarde sa photo *pendant* des heures. - Órákon keresztül nézegeti a fotóját.
+   * de … à :: Je suis à l'école *de* 8 heures *à* 15 heures. - 8 órától 3 óráig vagyok az iskolában.
+   * jusqu'à :: Il reste *jusqu'à* demain. - Holnapig marad.
+   * dans :: Je vais revenir dans trois mois. - Három hónap múlva jövök haza.
+   * c'est le première fois que … :: most először …
+   * c'est le dernière fois que … :: most utoljára …
+   * d'abord :: először
+   * ensuite :: azután
+   * puis :: azután
+   * après :: azután
+   * enfin :: végül
+   * être en retard :: késésben lenni
+   * être en avance :: korábban lenni
+   * être à l'heure :: pontosnak lenni
+** CLÉ
+   * (m) :: masculine
+   * (f) :: féminin
+   * (s) :: singulier
+   * (p) :: pluriel
+   * (v) :: commence avec voyelle
+   * (c) :: commence avec consonne

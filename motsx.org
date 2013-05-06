@@ -1,0 +1,907 @@
+* OKTATÁS
+  * l'année scolaire (f) :: tanév
+  * apprendre :: tanul || étudier
+  * étudier :: tanul || apprendre
+  * assez bien :: elégséges (érdemjegy)
+  * le baccalauréat :: érettségi
+  * la bibliothèque :: könyvtár
+  * bien :: jó (érdemjegy) || la mention bien
+  * la bourse :: ösztöndíj
+  * le boursier, la boursier :: ösztöndíjas
+  * le bulletin de notes :: bizonyítvány
+  * le cahier :: füzet
+  * le camarade, la camarade :: osztálytárs
+  * la cantine :: menza
+  * la carte d'étudiant :: diákigazolvány
+  * le collège :: középiskola alsó tagozata
+  * contrôler :: ellenőriz
+  * la copie :: dolgozat
+  * copier :: puskázni
+  * la correspondance :: levelezés
+  * corriger :: javít
+  * le crayon :: ceruza
+  * le dictionnaire :: szótár
+  * diplômé, diplômée :: diplomás
+  * le diplôme :: diploma
+  * discipliné, disciplinée :: fegyelmezett
+  * échouer :: megbukik || redoubler
+  * l'école élémentaire (f) :: általános iskola
+  * l'école maternelle (f) :: óvoda
+  * l'école primaire (f) :: általános iskola
+  * l'école secondaire (f) :: középiskola
+  * l'élève (m), étudiant :: tanuló
+  * l'emploi du temps (m) :: órarend
+  * être absent, être absente :: hiányzik
+  * évaluer :: értékel
+  * l'examen (m) :: vizsga
+  * excellent, excellente :: jeles (érdemjegy) || la mention très bien
+  * faire les devoirs :: házi feladatot írni
+  * la formation :: képzés, oktatás
+  * la garderie d'enfants :: napközi
+  * la gomme :: radírgumi
+  * lever la main :: jelentkezik, felteszi a kezét
+  * le livre :: könyv
+  * le lycée :: gimnázium
+  * manquer un cours :: kihagy egy órát
+  * le manuel :: tankönyv
+  * la matière :: tantárgy
+  * le mémoire :: szakdolgozat
+  * la mention assez bien :: közepes (érdemjegy) || moyen
+  * la mention bien :: jó (érdemjegy) || bien
+  * la mention passable :: elégséges (érdemjegy)
+  * la mention très bien :: jeles (érdemjegy) || excellent, excellente
+  * le moyen, la moyen :: közepes (érdemjegy) || la mention assez bien
+  * la note :: jegy
+  * obtenir un zéro :: elégtelent kapni
+  * la page :: lap, oldal
+  * passer un examen :: vizsgázik
+  * la pause :: szünet
+  * redoubler :: megbukik || échouer
+  * la rentrée :: tanévkezdet
+  * réussir l'examen :: letenni a vizsgát
+  * s'inscrire :: beiratkozik
+  * la salle de professeurs :: tanári
+  * la serviette :: aktatáska
+  * sévère :: szigorú
+  * le stage :: gyakorlat, gyakorlati idő
+  * le stagiaire :: gyakornok
+  * studieux, studieuse :: szorgalmas
+  * le stylo :: toll
+  * le tableau noir :: iskolatábla
+  * la terminale :: érettségiző osztály
+  * le travaux pratiques :: gyakorlati óra
+  * tricher :: csalni
+  * universitaire :: egyetemi
+  * l'université (f) :: egyetem
+  * les vacances (f) :: szünet, vakáció
+* TANTÁRGYAK
+  * la biologie :: biológia
+  * la chimie :: kémia
+  * le dessin :: rajz
+  * la géographie :: földrajz
+  * la grammaire :: nyelvtan
+  * la gymnastique :: testnevelés
+  * l'histoire (f) :: történelem
+  * la langue étrangère :: idegen nyelv
+  * la littérature :: irodalom
+  * les mathématiques (f) :: matematika
+  * les maths (f) :: matek
+  * la musique :: ének-zene
+  * la physique :: fizika
+  * les sciences (f) :: természettudományok
+* UTAZÁS
+  * l'accident (m) :: baleset
+  * l'aéroport (m) :: repülőtér
+  * l'agent de sécurité (m) :: biztonsági őr
+  * aller à bicyclette :: kerékpározni
+  * aller à pied :: gyalogol
+  * l'altitude (f) :: magasság
+  * l'ambulance (f) :: mentőautó
+  * l'amende (f) :: bírság
+  * appeler un taxi :: taxit hívni
+  * l'arrêt (m) :: megálló
+  * arrêter un taxi :: leinteni egy taxit
+  * l'arrivée (f) :: érkezés
+  * l'assurance (f) :: biztosítás
+  * attacher la ceinture de sécurité :: bekapcsolni az övet
+  * atterrir :: leszáll || demonter, descendre
+  * l'autobus (m) :: autóbusz
+  * l'autoroute (f) :: autópálya
+  * l'auto-stop (m) :: autóstopp
+  * l'avion (m) :: repülőgép
+  * avoir la correspondance :: csatlakozása van
+  * le bagage :: csomag
+  * le bateau :: hajó
+  * la bicyclette :: kerékpár
+  * le billet :: jegy || le ticket
+  * le billet aller-retour :: menettérti jegy || le ticket...
+  * le bord :: fedélzet
+  * la cabine :: utastér
+  * le camion :: teherautó
+  * la camionnette :: kisbusz
+  * le car :: busz
+  * la caravane :: lakókocsi
+  * le carburant :: üzemanyag || l'essence (f)
+  * le casque :: bukósisak
+  * la catastrophe aérienne :: légi katasztrófa
+  * changer d'autobus :: átszállni autóbuszra
+  * le chauffeur :: sofőr
+  * la circulation :: forgalom
+  * l'embouteillage (m) :: dugó || le bouchon
+  * le bouchon :: dugó || l'embouteillage (m)
+  * le clignotant :: index
+  * le Code de la route :: KRESz
+  * composter le billet :: érvényesíteni a jegyet
+  * le compteur de taxi :: taxióra
+  * le contrôleur :: ellenőr, kalauz
+  * le cycliste, la cycliste :: kerékpáros
+  * le décollage :: fölszállás (repülőgépé)
+  * décoller :: felszáll (repülőgép) || monter
+  * le départ :: indulás 
+  * descendre l'autobus :: leszállni az autóbuszról
+  * la deuxième classe :: másodosztály
+  * le distributeur automatique :: jegyárusító automata
+  * l'embarquement (m) :: beszállás (hajóba, repülőbe)
+  * enregistrer les bagages :: felvenni a csomagokat (repülőtéren)
+  * l'escalier roulant (m) :: mozgólépcső
+  * l'essence (f) :: benzin
+  * l'express (m) :: sebesvonat
+  * faire de l'auto-stop :: stoppolni
+  * faire le plein :: teletankol
+  * le frein :: fék
+  * le fumeur, la fumeur :: dohányzó személy
+  * le garage :: szerelőműhely
+  * le garagiste :: autószerelő
+  * la gare routière :: buszpályaudvar
+  * se garer :: parkolni
+  * le guichet :: jegypénztár
+  * le horaire :: menetrend
+  * la hôtesse de l'air :: légi utaskísérő (nő)
+  * la limitation de vitesse :: sebességkorlátozás
+  * la location de voiture :: autókölcsönzés
+  * le métro :: metró
+  * monter :: felszáll || décoller
+  * la moto :: motor
+  * non fumeur :: nondohányzó
+  * le numéro d'immatriculation :: rendszám
+  * la panne :: defekt
+  * le panneau :: jelzőtábla
+  * le parcmètre :: parkolóóra
+  * le parking :: parkoló
+  * le parking payant :: fizetős parkoló
+  * le passager, la passager :: utas || le voyageur, la voyageuse
+  * le passeport :: útlevél
+  * le permis de conduire :: jogosítvány
+  * le piéton :: gyalogos
+  * la plaque d'immatriculation :: rendszámtábla
+  * le poids supplémentaire :: túlsúly
+  * la pompe à essence :: benzinkút
+  * le quai :: peron
+  * le rail :: sín
+  * le rapide :: gyorsvonat
+  * le rond-point :: körforgalom
+  * la roue :: kerék
+  * la route :: közút
+  * la station :: állomás
+  * le taxi :: taxi
+  * le terminus :: végállomás
+  * TGV (train à grande vitesse) :: TGV (francia gyorsvonat)
+  * le ticket d'autobus :: autóbuszjegy || le billet...
+  * le tram :: villamos
+  * le trottoir :: járda
+  * le tunnel :: alagút
+  * le véhicule :: jármű
+  * le vélo :: bicó
+  * la voie :: vágány
+  * la voiture :: autó
+  * le voyage :: utazás
+  * le voyageur, la voyageuse :: utas || le passager, la passager
+  * le wagon-lit :: hálókocsi
+  * le wagon-restaurant :: étkezőkocsi
+* POSTA, TELEFON
+  * Est-ce que je suis bien chez Monsieur Mondiale? :: Monsieur Mondialt keresem.
+  * joindrer q :: kapcsolatba lépni vkvel
+  * Qui est à l'appareil? :: Ki van a készüléknél?
+  * On a coupé. :: Megszakadt.
+  * l'addresse (f) :: cím
+  * appeler le numéro :: felhívni a számot
+  * attendre la ligne :: megvárni amíg vonalat kap
+  * la boîte aux lettre :: postaláda
+  * la boîte postale, B.P. :: postafiók, P.F.
+  * la cabine téléphonique :: telefonfülke
+  * la carte postale :: képes levelezőlap
+  * le centre téléphonique :: telefonközpont
+  * C'est occupé. :: Ez foglalt. (telefonvonal)
+  * le chèque postal :: postai csekk
+  * le code postal :: irányítószám
+  * composer le numéro :: tárcsázni a számot
+  * le contenu :: tartalom
+  * la correspondance :: levelezés
+  * le correspondant :: hívott fél
+  * le courrier :: napi posta
+  * décrocher :: letenni a kagylót || raccrocher
+  * le destinataire, la destinataire :: címzett
+  * la destination :: cím, rendeltetési hely
+  * l'enveloppe (f) :: boríték
+  * l'envoi (m) :: küldemény
+  * envoyer :: elküldeni || expédier
+  * expédier :: feladni || envoyer
+  * l'expéditeur (m) :: feladó
+  * le facteur, la factrice :: postás
+  * la facture de téléphone :: telefonszámla
+  * la feuille :: lap, levél || la lettre
+  * la fiche :: cédula, űrlap
+  * le formulaire :: formanyomtatvány
+  * fragile :: törékeny
+  * le gramme :: gramm
+  * l'indicatif (m) :: körzetszám
+  * l'indicatif de pays (m) :: ország hívószáma
+  * laisser le mot :: üzenetet hagyni
+  * la lettre :: levél
+  * la lettre express :: expressz levél
+  * la lettre recommandée :: ajánlott levél
+  * la ligne téléphonique :: telefonvonal
+  * la nouvelle :: hír
+  * le numéro demandé :: tárcsázott szám
+  * par avion :: légipostával
+  * parler à q :: beszél valakivel
+  * passer q :: átadni vknek (a telefont)
+  * le paquet :: csomag
+  * postal :: postai
+  * raccrocher :: bontani a vonalat || décrocher
+  * rappeler :: visszahív
+  * le récepteur :: telefonkagyló
+  * revevoir :: kap
+  * recommandé, recommandée :: ajánlott
+  * le répondeur :: üzenetrögzítő
+  * la télécarte :: telefonkártya
+  * téléphoner :: telefonál
+  * le téléphone portable :: mobiltelefon
+  * le texte :: szöveg
+  * le timbre :: bélyeg
+  * la tonalité :: vonalhang
+  * l'unité (f) :: egység
+  * la voix :: hang
+  * le zéro :: nulla
+  * le message :: üzenet
+* VAKÁCIÓ
+  * admirer les curiosités :: megcsodálni a nevezetességeket
+  * l'agence de voyage (m) :: utazási iroda || l'office de tourisme (m)
+  * aller en vacances :: szabadságra menni
+  * attrapper un coup de soleil :: leég a napon
+  * l'auberge (f) :: fogadó
+  * l'auberge de jeunesse (f) :: diákszálló
+  * se baigner :: fürdeni
+  * le bain thermal :: termálfürdő
+  * le bord du lac :: tópart
+  * la campaigne :: vidék
+  * le campeur (m) :: kempingező
+  * le camping :: kemping
+  * le centre ville :: városközpont
+  * la chaleur d'été :: nyári hőség
+  * changer de l'argent :: pénzt váltani
+  * le château :: kastély
+  * la consigne :: csomagmegőrző
+  * la crème solaire :: naptej
+  * la curiosité :: nevezetesség
+  * défaire la valise :: kicsomagolni a bőröndöt
+  * en plain air :: szabadban
+  * la destination :: úticél
+  * descendre à l'hôtel :: megszállni a hotelban
+  * l'environs (m) :: környék
+  * être en vacances :: nyaraláson lenni
+  * faire du camping :: kempingezni
+  * faire la valise :: összecsomagolni
+  * faire une excursion :: kirándul
+  * la forêt :: erdő
+  * la grotte :: barlang
+  * le guide, la guide :: idegenvezető, idegenvezetőnő
+  * l'hébergement (m) :: szállás, elszállásolás
+  * le hobby :: hobbi
+  * l'hôtel :: szálloda
+  * l'itinéraire (m) :: útvonal
+  * le lac :: tó
+  * les lunettes de soleil (f) :: napszemüveg
+  * le maillot de bain :: fürdőruha
+  * la mer :: tenger
+  * la montaigne :: hegy
+  * le monument :: műemlék
+  * le musée :: múzeum
+  * nager :: úszni
+  * la nature :: természet
+  * l'office de tourisme (m) :: utazási iroda / hivatal || l'agence de voyage (m)
+  * passer le temps :: időt tölteni
+  * pêcher :: horgászni
+  * la pension :: panzió
+  * la pension complète :: teljes ellátás
+  * la plage :: tengerpart, strand
+  * la région :: vidék, táj
+  * la réservation :: szobafoglalás
+  * la rivière :: folyó
+  * le sac de couchage :: hálózsák
+  * le sac à dos :: hátizsák
+  * les souvenirs (f) :: ajándéktárgy
+  * la tempête :: vihar
+  * la tente :: sátor
+  * le terrain de golf :: golfpálya
+  * le touriste, la touriste :: turista
+  * la valise :: bőrönd
+  * la vallée :: völgy
+  * le visa :: vízum
+  * visiter :: meglátogatni
+  * le vol :: repülés, járat
+  * le VTT :: mountain bike
+* ÉTTEREM
+  * l'addition (m) :: számla
+  * apporter :: kihozni
+  * l'assiette à dessert (f) :: süteményes tányér
+  * l'assiette creuse (f) :: mélytányér
+  * l'assiette plate (f) :: lapostányér
+  * le bifteck :: bifsztek
+  * le bifteck-frites :: bifsztek sült krumplival
+  * la blanc de dinde :: pulykamell
+  * la blanc de poulet :: csirkemell
+  * le bol :: tál
+  * le bouillon :: erőleves
+  * la bouilette :: gombóc
+  * le café au lait :: tejeskávé
+  * le café express :: presszókávé
+  * le chef de cuisine :: konyhafőnök
+  * le cornichon :: csemegekukorica
+  * la crêpe au fromage blanc :: túrós palacsinta
+  * le croissant :: croissant
+  * cru, crue :: nyers
+  * les crudités (f) :: nyers zöldség
+  * la cuisse de poulet panée :: rántott csirkecomb
+  * la cuisson :: főzés
+  * l'eau de vie (f) :: pálinka
+  * l'eau minérale (f) :: ásványvíz
+  * l'eau minérale pétillante (f) :: szénsavas ásványvíz
+  * l'eau minérale plate (f) :: szénsavmentes ásványvíz
+  * l'entrée (f) :: előétel || l'hors d'oeuvre (m)
+  * épicé, épicée :: fűszeres
+  * l'escalope (f) :: hússzelet
+  * faire cuire :: megsüt
+  * le filet de boeuf :: marhaszelet
+  * le foie de gras :: hízlalt libamáj
+  * fumé, fumée :: füstölt
+  * la garniture :: köret
+  * le gastronomie :: konyhaművészet
+  * l'hors-d'oeuvre (m) :: előétel || l'entrée (f)
+  * la pâte :: tészta
+  * le petit déjeuner :: reggeli
+  * le petit four :: aprósütemény
+  * le petit pain :: zsemle
+  * le pizza :: pizza
+  * le plat de jour :: menü
+  * les pommes frites (f) :: sültkrumpli
+  * le porc :: sertéshús
+  * la portion :: adag
+  * le potage :: húsleves
+  * le potage de légume :: zöldségleves
+  * le poulet au paprika :: paprikás csirke
+  * le pourboire :: borravaló
+  * prendre place à la table :: helyet foglalni az asztalnál
+  * le produit de boulangerie :: péksütemény
+  * la purée de pommes de terre :: krumplipüré
+  * le restaurant :: étterem
+  * le restaurent à service rapide :: gyorsétterem
+  * le service :: kiszolgálás
+  * la serviette de table :: szalvéta
+* ELADÓK ÉS ÜZLETEK
+  * le boulot :: munka || le travaille
+  * le boucher :: hentes
+  * la boucherie :: hentesüzlet
+  * le boulanger :: pék
+  * la boulangerie :: pékség
+  * l'épicier :: fűszeres
+  * la épicerie :: fűszerüzlet
+  * le marchand de fleurs :: virágkereskedő
+  * le magasin de fleurs :: virágbolt
+  * le marchand de journaux :: újságárus
+  * le kiosque à journaux :: újságárus
+  * le primeur :: zöldséges
+  * le marché :: piac
+  * le marchand de poisson :: halárus
+  * la poissonerie :: halbolt
+  * le marchand de quatre saisons :: őstermelő
+  * le marchand de tabac :: dohányárus
+  * le bureau de tabac :: dohánybolt
+  * le marchand de vin :: borkereskedő
+  * la vinerie :: borozó
+  * le pâtissier :: cukrász
+  * la pâtisserie :: cukrászda
+  * à la mode :: divatos
+  * les achats (m) :: bevásárlás
+  * acheter :: vásárolni
+  * acheter à credit :: hitelre vásárol
+  * acheter au comptant :: kézpénzért vásárolni
+  * acheter des cadeaux :: ajándékokat venni
+  * acheter en solde :: leértékelten vásárolni
+  * l'acheteur (m) :: vásárló
+  * aider q :: segíteni valakinek
+  * l'alimentation (f) :: élelmiszer
+  * aller bien à q :: jól állni vknek
+  * l'appareil ménager :: háztartási készülék, eszköz
+  * l'article (m) :: árucikk
+  * l'article ménager (m) :: háztartási cikk
+  * attirer l'attention :: felhívni a figyelmet
+  * l'augmentation des prix (f) :: áremelés
+  * la balance :: mérleg
+  * la bijouterie (f) :: ékszerüzlet
+  * la boisson :: ital
+  * le bon de garantie :: garanciajegy
+  * bon marché :: olcsó
+  * le boucher, la bouchère :: hentes
+  * la boucherie :: hentesüzlet
+  * la bouteille d'huile :: egy üveg étolaj
+  * la boutique :: bolt
+  * la boutique de mode :: butik
+  * le bureau de tabac :: trafik
+  * C'est la mode. :: Ez a divat.
+  * la cabine d'essayage :: próbafülke
+  * le caddie :: bevásárlókocsi
+  * la caisse :: pénztár
+  * la caissière :: pénztáros
+  * la carte de crédit :: hitelkártya
+  * le centre commercial :: bevásárlóközpont
+  * cher, chère :: drága
+  * choisir :: választ
+  * le choix :: választék
+  * le client, la cliente :: ügyfél
+  * Combien vous dois-je? :: Mivel tartozok?
+  * le commerçant, la commerçante :: kereskedő
+  * le consommateur :: fogyasztó
+  * la consommation :: fogyasztás
+  * les courses :: bevásárlás
+  * coûter qc :: valamennyibe kerülni
+  * dépenser :: költ
+  * deux cents grammes de fromage :: 20 deka sajt
+  * le distributeur automatique :: pénzkiadó automata
+  * l'épicerie :: élelmiszerbolt
+  * essayer :: felpróbálni
+  * l'étiquette :: árcédula
+  * faire des achats :: bevásárolni || faire des courses
+  * faire des courses :: bevásárolni || faire des achats
+  * faire du lèche-vitrines :: kirakatokat nézegetni
+  * faire la queue devant la caisse :: sorban állni a pénztár előtt
+  * la libraire :: könyvesbolt
+  * le marchand de qc :: valamit árusító árus
+  * la monnaie :: aprópénz
+  * ouvert 25 heures sur 24 :: éjjelnappali
+  * le panier :: kosár
+  * payer en liquide :: kézpénzzel fizetni
+  * le prix :: ár
+  * le produit :: termék
+  * la publicité :: reklám
+  * la réclamation :: panasz
+  * la réduction :: árengedmény
+  * le supermarché :: szupermarket
+  * le ticket de caisse :: blokk
+* MŰVÉSZET
+  * le vernissage :: kiállításmegnyitó
+  * la galerie :: galéria
+  * le musée :: múzeum
+  * les heures d'ouvertes :: nyitvatartási idő
+  * visiter le musée :: meglátogatni a múzeumot
+  * l'artist, l'artiste :: művész
+  * le peinture :: festmény, festészet
+  * le tableau :: festmény
+  * le peintre :: festő
+  * le sculpture :: szobrászat
+  * le sculpteur :: szobrász
+  * la statue (en bronze) :: (bronz)szobor
+  * le style :: stílus
+  * l'époque (f) :: korszak
+  * l'école (f) :: iskola
+  * peindre :: festeni
+  * sculpter :: szobrászkodni
+  * représenter :: megjeleníteni
+  * exprimer :: kifejezni
+  * montrer :: mutatni
+* MOZI
+  * la séance :: előadás, találkozó
+  * l'affiche :: plakát
+  * la bande dessinée :: képregény
+  * la biographie :: életrajz
+  * le chef d'oeuvre :: remekmű
+  * le complexe de cinéma :: multiplex mozi
+  * le dessin animé :: rajzfilm
+  * le documentaire :: dokumentumfilm
+  * la drame :: dráma
+  * l'écran (m) :: vászon
+  * l'écrivain (m) :: író
+  * l'épouvante :: horror
+  * le fauteuil :: hely (moziban)
+  * la fiction :: fantasztikus film
+  * le film d'aventure :: kalandfilm
+  * le film policier :: krimi
+  * le film de science fiction :: sci-fi
+  * le grand public :: nagyközönség
+  * l'histoire (f) :: történet
+  * le metteur en scène :: rendező
+  * l'opérateur :: operatőr
+* ORVOS
+  * être pâle :: sápadtnak lenni
+  * avoir l'air crevé :: kimerültnek látszani
+  * l'accident (m) :: baleset
+  * aller bien :: jól lenni
+  * aller mal :: rosszul lenni || être malade
+  * être malade :: rosszul lenni || aller mal
+  * l'allergie (f) :: allergia
+  * l'ambulance (f) :: mentőautó
+  * l'angine (f) :: torokgyulladás
+  * l'appetit (m) :: étvágy
+  * l'assurance-maladie (f) :: betegbiztosítás
+  * l'ashtme (m) :: asztma
+  * attrapper la maladie :: elkapni a betegséget
+  * avoir de la fièvre :: lázának lenni
+  * avoir mal au coeur :: émelygésének lenni
+  * blessé, blessée :: sebesült
+  * la blessure :: sebesülés
+  * le cabinet médical :: orvosi rendelő
+  * le cancer :: rák
+  * cassé, cassée :: betört
+  * la chirurgie :: sebészet
+  * le comprimé :: tabletta
+  * consulter le médecin :: az orvoshoz fordulni
+  * le contrôle :: kontroll
+  * la crise cardiaque :: szívrohan
+  * la douleur :: fájdalom
+  * enrhumé, enrhumée :: náthás, megfázott
+  * l'envie de vomir (f) :: hányinger
+  * l'épilepsie (f) :: epilepszia
+  * éternuer :: tüsszenteni
+  * l'examen médical (m) :: orvosi vizsgálat
+  * examiner :: megvizsgál
+  * le fébrifuge :: lázcsillapító
+  * la gorge :: torok
+  * la grippe :: influenza
+  * guérir :: meggyógyulni, meggyógyítani
+  * la guérison :: meggyógyulás
+  * infectieux, infectieuse :: fertőző
+  * l'infection (f) :: fertőzés
+  * infirmier, infirmière :: ápoló, ápolónő
+  * l'inflammation (f) :: gyulladás
+  * la piqûre :: injekció
+  * le mal de tête :: fejfájás
+  * l'intoxication alimentaire (f) :: ételmérgezés
+  * le mal :: betegség
+  * la malaise :: rosszullét
+  * le médecin :: orvos
+  * le médicament :: gyógyszer
+  * la migraine :: migrén
+  * la mode de vie :: életmód
+  * mortel, mortelle :: halálos
+  * la notice :: betegtájékoztató
+  * l'opération (f) :: műtét
+  * le pharmacien, la pharmacienne :: gyógyszerész, gyógyszerésznő
+  * la plâtre :: gipsz
+  * plâtrer :: begipszelni
+  * le plombage :: fogtömés
+  * plomber :: fogat betömni
+  * la pommade :: kenőcs
+  * prendre les médicaments :: bevenni a gyógyszereket
+  * prendre la tension :: vérnyomást mérni
+  * l'hypertension artérielle (f) :: magas vérnyomás
+  * prescrire l'ordonnance :: felírni a receptet
+  * la prise de sang :: vérvétel
+  * le psychiatre :: pszichiátér
+  * la radio :: röntgen
+  * le régime :: diéta
+  * respirer :: lélegzeni, sóhajtani
+  * le rhume :: nátha
+  * la salle opératoire :: műtő
+  * SAMU (Services d'Aide Médicale Urgente) :: sürgősségi mentőszolgálat
+  * le sang :: vér
+  * sanitaire :: egészségügyi
+  * la santé :: egészség
+  * la sécurité sociale :: társadalombiztosítás
+  * le service d'urgente :: sürgősségi osztály
+  * SIDA :: AIDS
+  * se soigner :: kúrálja magát
+  * soigner q :: ápolni vkt
+  * les soins médicaux :: orvosi ellátás
+  * le spécialiste, la spécialiste :: szakorvos
+  * le suppositoire :: végbélkúp
+  * le thermomètre :: hőmérő, lázmérő
+  * tomber malade :: megbetegedni
+  * tousser :: köhög
+  * la toux :: köhögés
+  * le traitement :: kezelés
+  * le vaccin :: oltóanyag
+  * la vaccination :: oltás
+  * le vertige :: szédülés
+  * le vomissement :: hányás
+* SPORT
+  * l'athlète, l'athlète :: sportoló
+  * l'athletisme (m) :: atlétika
+  * le badminton :: tollaslabda
+  * le ballon :: labda
+  * le basket-ball :: kosárlabda
+  + battre :: megver
+  * la boxe :: boksz
+  * le boxeur :: bokszoló
+  * le champion, la championne :: bajnok, bajnoknő
+  * le championnat :: bajnokság
+  * le club de sport :: sportklub
+  * la compétition :: mérkőzés
+  * le coureur :: futó
+  * courir :: futni
+  * la course :: futás
+  * le cyclisme :: kerékpározás
+  * le cycliste :: kerékpáros
+  * l'émission sportive (f) :: sportközvetítés
+  * l'entraînement (m) :: edzés
+  * l'entraîneur :: edző
+  + l'éqique :: csapat
+  * l'éqipement sportif (m) :: sportlétesítmény
+  + être en forme :: jó formában van
+  * l'événement sportif :: sportlétesítmény
+  * faire de la gymnastique :: tornászni
+  * faire de la planche à voile :: szörfözni
+  * faire du ski :: síelni
+  * faire match nul :: döntetlent jásztani
+  * la finale :: döntő
+  * le football :: labdarúgás
+  + le gagnant :: győztes || le vainqueur
+  * le hand-ball :: kézilabda
+  * jouer au basket-ball :: kosarazni
+  * jouer au handball :: kézilabdázni
+  * jouer au tennis :: teniszezik
+  + le joueur :: játékos
+  * la lutte :: birkózás
+  * le marathon :: maraton
+  * le match :: meccs
+  * la médaille d'or :: aranyérem
+  * la médaille d'argent :: ezüstérem
+  * la médaille de bronze :: bronzérem
+  + nager :: úszni
+  + la natation (f) :: úszás
+  * le palais de sports :: sportcsarnok
+  * le ping-pong :: pingpong
+  + pratiquer du sport :: sportol
+  * le rugby :: rögbi
+  + s'entraîner :: edzeni
+  * le saut en hauteur :: magasugrás
+  * le saut en longeur :: távolugrás
+  * le spectateur :: néző
+  * le sport :: sport
+  * le stade :: stadion
+  + supporter :: szurkolni
+  + le supporteur :: szurkoló
+  * le tennis :: tenisz
+  + vaincu, vaincue :: vesztes
+  + le vainqueur :: győztes || le gagnant
+  + la victoire :: győzelem
+  * le water-polo :: vízilabda
+  + la boule :: labda
+  + la raquette de tennis :: teniszütő
+  * le terrain de golf :: golfpálya
+  * la balle de golf :: golflabda
+  * le club :: gölfütő
+  * la batte de baseball :: baseball ütő
+* IDŐJÁRÁS
+  * Le température montera au-dessus de dix-huit degrés. :: A hőmérséklet tizennyolc fok fölé fog emelkedni.
+  * Le température descendrera au-dessous de dix-huit degrés. :: A hőmérséklet tizennyolc fok alá fog süllyedni.
+  * le temps :: az idő
+  * l'arc-en-ciel (m) :: szivárvány
+  * l'atmosphère (f) :: légkör
+  * l'averse (f) :: zápor
+  * l'orage (m) :: vihar
+  * la baisse de la température :: hőmérsékletcsökkenés
+  * briller :: ragyog
+  * le brouillard :: köd
+  * le bulletin météo :: időjárás-jelentés
+  * la chaleur :: hőség
+  * la chute de neige :: hóesés
+  * le ciel :: ég
+  * le ciel couvert :: borult ég
+  * le ciel découvert :: derült ég
+  * le climat :: éghajlat
+  * continental, continentale :: szárazföldi
+  * couvert, couverte :: borult
+  * le cyclone :: forgószél
+  * le degré :: fok
+  * la dépression :: nyomáscsökkenés
+  * doux, douce :: enyhe
+  * ensoleillé, ensoleillée :: napos
+  * l'été (m) :: nyár
+  * l'étoile (f) :: csillag
+  * extrême :: szélsőséges
+  * la flaque d'eau :: pocsolya
+  * la foudre :: villámlás
+  * le gel :: fagy (főnév)
+  * geler :: fagy (ige)
+  * la grêle :: jégeső
+  * humide :: csapadékos
+  * Il fait beau. :: Szép idő van.
+  * Il fait chaud. :: Meleg van.
+  * Il fait doux. :: Enyhe idő van.
+  * Il fait du brouillard. :: Köd van.
+  * Il fait du soleil. :: Süt a nap. || Le soleil brille.
+  * Il fait du vent. :: Fúj a szél.
+  * Il fait du vent fort. :: Erős szél van.
+  * Il fait froid. :: Hideg van.
+  * Il fait lourd. :: Nyomott idő van.
+  * Il fait mauvais. :: Rossz idő van.
+  * Il fait moins dix. :: Mínusz tíz fok van.
+  * Il grêle. :: Jégeső esik.
+  * le verglas :: ónos eső
+  * Il pleut. :: Esik az eső.
+  * Il y a de la lune. :: Süt a hold.
+  * Il y a du brouillard. :: Köd van.
+  * Il y a du verglas. :: Jeges az út.
+  * Le soleil brille. :: Süt a nap. || Il fait du soleil.
+  * méditerranéen, méditerranéenne :: földközi-tengeri
+  * la météorologie :: meteorológia
+  * la neige :: hó
+  * le nuage :: felhő
+  * nuageux, nuageuse :: felhős
+  * océanique :: óceáni
+  * la pluie :: eső
+  * pluvieux, pluvieuse :: esős
+  * le rayon de soleil :: napsugár
+  * le refroidissement :: lehűlés
+  * la saison :: évszak
+  * le sécheresse :: szárazság
+  * la température minimale :: legalacsonyabb hőmérséklet
+  * tempéré, tempérée :: mérsékelt
+  * la tempête :: vihar
+  * le temps :: időjárás
+  * le thermomètre :: hőmérő
+  * le tonnerre :: mennydörgés
+  * variable :: változékony
+  * le vent :: szél 
+  * la glace :: jég
+* UDVARIASSÁG
+  * se moquer de qc :: gúnyolódni vmin
+  * Bon courage! :: Sok szerencsét!
+  * Qu'est-ce que vous faites là? :: Mit csinál ott?
+  * Vous désirez? :: Parancsol?
+  * Vous avez quel age? :: Hány éves Ön?
+  * Tu rigoles? :: Viccelsz?
+  * Ranges tes affaires tout de suite! :: Azonnal rakd rendbe a dolgaidat!
+  * Ce n'est pas la peine. :: Nem fontos.
+  * Non, pas question! :: Szó sem lehet róla!
+  * avoir envie de qc :: kedvének lenni vmhez
+  * Ben quoi? :: És akkor mi van?
+  * Ça te dérange? :: Zavar?
+  * Én így szeretem. :: Moi, je l'aime comme ça.
+  * Quel jour on est? :: Milyen nap van ma? || Quel jour sommes-nous?
+  * Quel jour sommes-nous? :: Milyen nap van ma? || Quel jour on est?
+  * faire une partie de cartes :: játszani egy parti kártyát
+  * embrasser :: ölelni
+  * prendre son revanche :: visszavágni, revansot venni
+  * Quand est-ce qu'on mange? :: Mikor eszünk?
+  * Oh zut! :: Francba!
+  * Figure-toi! :: Képzeld el!
+  * Je te jure. :: Én mondom neked.
+  * Dites, vous ne savez pas ce qui m'arrive? :: Mondjátok, fogalmatok sincs, hogy mi történt velem!
+  * Je n'ai pas d'opinion. :: Nincs véleményem.
+  * Aucun idée. :: Fogalmam sincs.
+* ÖLTÖZKÖDÉS
+  * mettre :: felvenni
+  * enlever :: levenni
+  * porter :: hordani
+* IDŐHATÁROZÓK
+  * lendemain :: következő nap
+  * encore :: még
+  * déjà :: már
+  * toujours :: mindig
+  * d'abord :: előbb
+  * ensuite :: azután || puis || aprés
+  * puis :: azután || ensuite || aprés
+  * aprés :: azután
+  * enfin :: végül || finalement
+  * finalement :: végül || enfin
+  * en retard :: késésben
+  * en avance :: korán lenni <> késésben
+  * à l'heure :: időben lenni <> késésben
+  * l'heure des informations :: a hírek órája
+  * à partir de qc :: vmtől fogva
+* EGYÉB
+  * si :: igen [megerősítő]
+  * mais si :: de igen [ellentmondó]
+  * se coucher :: lefeküdni
+  * le tas :: egy halom
+  * tellement :: annyira
+  * carrément :: egyenesen (fokozószó)  
+  * quand même :: akkor is
+  * s'en aller :: elmenni
+  * même :: sőt
+  * surtout :: főképp
+  * partout :: mindenhol
+  * menant :: vhova vezető
+  * étonnant :: meglepő
+  * au lieu de qc :: vm helyett
+  * le farniente :: lazulás, semmittevés
+  * farnienter :: lazulni, semmittenni
+  * à bas prix :: alacsony áron
+  * la location de la maison :: a ház kibérlése
+  * pris en charge :: ingyenes, támogatott
+  * ben :: nos
+  * le bout de papier :: papírfecni
+  * être en train de qc :: folyamatában lenni vmnek
+  * d'ailleurs :: egyébként, máshol
+  * Qu'est-ce que j'ai faim! :: Hogy én milyen éhes vagyok!
+  * J'ai fini aller tout seul. :: Végül egyedül mentem. ("ended up")
+  * Je n'ai pas encore compris comment il faut faire. :: Még nem értettem meg hogyan kell csinálni.
+  * nettement :: valóban
+* KÖZLEKEDÉS
+  * aller :: menni
+  * venir :: jönni
+  * entrer :: bemenni
+  * sortir de :: kimenni
+  * rentrer :: bemmenni, visszatérni
+  * descendre de :: leszállni vmről || demonter
+  * demonter de :: leszállni vmről || descendre
+  * tourner :: fordulni
+  * prendre :: tenni, venni
+  * monter dans qc :: vmre felszállni, vmvel menni
+  * voyager en qc :: vmvel utazni || déplacer en qc || circuler en qc
+  * déplacer en qc :: vmvel utazni || voyager en qc || circuler en qc
+  * circuler en qc :: vmvel utazni || voyager en qc || déplacer en qc
+  * changer à qp :: átszállni vhol
+  * au coin :: sarkon
+  * le coin :: sarok
+  * à gauche :: balra
+  * à droite :: jobbra
+  * tout droit :: előre
+  * entre :: közötte
+  * longer :: végigmenni
+  * traverser :: átmenni
+  * suivre :: követni
+  * le virage :: kanyar
+  * comment aller chez qc :: hogyan (kell) menni vkhez
+  * L'homme demande son chemin à un passant. :: A férfi útbaigazítást kér egy járókelőtől.
+  * Il y a beaucoup du bruit. :: Nagy a zaj.
+  * Alice fait le tourist répéter les instructions. :: Alice megismételteti a turistával az utasításokat.
+  * expliquer :: elmagyarázni
+  * le carrefour :: útkereszteződés
+  * démarrer :: elindulni
+  * stationner :: megállni
+  * passer au rouge :: átmenni a piroson
+  * freiner :: fékezni
+  * mettre la ceinture de décurité :: bekötni a biztonsági övet
+  * la victime :: áldozat
+  * la police :: rendőrség
+  * le blessé léger :: könnyű sebesülés
+  * le blessé grave :: súlyos sebesülés
+  * l'accident de voiture (m) :: autóbaleset
+  * provoquer l'accident (m) :: balesetet okozni
+  * aller dans le fossé :: árokba fordulni
+  * heurter la voiture :: kárt tenni az autóban
+  * renverser le piéton :: elgázolni a gyalogost
+  * les pompiers :: tűzoltók
+  * brûler :: égni
+  * le feu :: tűz
+  * refuser du secours :: visszautasítani a segítséget
+  * accorder du secours :: segítséget nyújtani
+  * obtenir du secours :: segítséget szerezni/kapni
+  * le secours :: segítség, felmentősereg, mentőmisszió
+  * Je n’ai secours que de Dieu. :: Csak Isten segíthet rajtam.
+* KIKAPCSOLÓDÁS
+  * aller au cinéma :: moziba menni
+  * assister à un concert :: elmenni egy koncertre
+  * aller au théâtre :: színházba menni
+  * aller à l'Opera :: elmenni az Operába
+  * sortir :: elmenni az éjszakába :)
+  * aller en boîte :: elmenni inni
+  * aller à une fête :: elmenni egy partira
+  * manger au restaurant :: étteremben enni
+  * aller à la piscine :: uszodába menni
+  * rester à la maison :: otthon maradni
+  * écouter de la musique :: zenét hallgatni
+  * faire de l'ordinateur :: számítógépezni
+  * jouer sur son portable :: játszani a mobiljával
+* ÁLLATOK
+  * la mouette :: sirály
+  * l'oiseau (m) :: madár
+* FOKOZÁS
+  * bon :: jó
+  * le meilleur, la meilleure, les meilleurs, les meilleures :: legjobb
+  * bien :: jól
+  * le mieux :: legjobban
+* PÁRIZS
+  * Le Dôme des Invalides :: invalidusok dómja

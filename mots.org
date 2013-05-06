@@ -1,0 +1,723 @@
+* VOYOU
+  * Je t'en prie! :: Könyörgök!
+  * Je m'en fous, moi. :: Szarok rá!
+  * J'en ai marre (de qc) :: Elegem van (vmből).
+  * Non, mais je rêve! :: Tuti álmodok!
+  * Je vois. :: Értem.
+  * Comme d'habitude! :: Mint mindig!
+  * d'habitude :: általában
+  * Je déteste carrément sortir du lit. :: Egyenesen utálok kikelni az ágyból.
+  * Tu comprends pas la mode, maman. :: Anyu, te nem érted a divatot.
+  * Je m'en vais! :: Elegem van!
+* QUELQUE MOTS
+ * d'oeuvre d'art :: műalkotás
+ * la voiture :: gépkocsi
+ * le lait :: tej
+ * très :: nagyon || bien
+ * super :: szuper
+* NOUNS
+ * la bêtise :: butaság
+ * le contructeur, la conductrice :: sofőr || le chauffeur, la chauffeur
+ * le trottoir :: járda
+ * le fleuriste, la fleuriste :: virágárús
+ * le piéton :: gyalogos
+ * le bénévolat :: önkéntesség
+ * le volontaire, la volontaire :: önkéntes
+ * le loisir :: szabadidő
+ * la frontière :: határ
+ * l'armée (f) :: hadsereg
+ * le certificat :: bizonylat
+ * réussir à :: sikerül vmt megcsinálni
+ * le malrasé :: borosta
+ * les lunettes du soleil (f) :: napszemüveg
+ * le voleur, la voleur :: tolvaj
+ * la serrure :: zár
+ * l'arbre (m) :: fa
+ * le chien :: kutya
+ * le lion :: oroszlán
+ * la pharmacie :: gyógyszertár
+ * la photo :: fotó
+ * la télécarte :: telefonkártya
+ * la carte :: kártya
+ * la pièce d'identité :: személyazonosságot igazoló okmány
+ * le passeport :: útlevél
+ * la Carte Orange :: bérlet
+ * le ticket :: jegy || le billet
+ * la classe :: osztályterem
+ * l'île (f) :: sziget
+ * le fauteuil :: fotel
+ * la terasse :: terasz
+ * le policier, la policier :: rendőr
+ * le flic, la flic :: zsaru
+ * la chaise :: szék 
+ * la fenêtre :: ablak
+ * l'arrêt (m) :: megálló
+ * la porte :: ajtó
+ * le coeur :: szív
+ * le lit :: ágy
+ * le cahier :: füzet
+ * le livre :: könyv
+ * le dessin :: rajz
+ * la phrase :: mondat
+ * la ville :: város || la cité
+ * la dent :: fog
+ * le pot :: bögre
+ * le jus :: lé
+ * un peu :: egy kicsi
+ * la peine :: kín
+ * la pyramide :: piramis
+ * le bol :: tálka
+ * le saut :: ugrás
+ * le château :: kastély
+ * le pou :: tetű
+ * la fin :: vég
+ * le pain :: kenyér
+ * la loi :: törvény
+ * le bébé, la bébé :: kisbaba
+ * la face :: arc || le visage
+ * le chat :: macska
+ * l'appartement (m) :: lakás
+ * le laser :: lézer
+ * la valise :: bőrönd
+ * le texte :: szöveg
+ * la gazette :: újság
+ * le rap :: rap
+ * le foot :: foci
+ * l'ordinateur (m) :: számítógép
+ * l'identité (m) :: személyigazolvány
+ * la carte d'étudiant :: diákigazolvány
+ * l'oreille (f) :: fül
+ * la collection :: gyűjtemény
+ * le copin :: haver
+ * la copine :: havernő
+ * le connaissance, la connaissance :: ismerős
+ * le dieu :: isten
+ * la maison :: ház
+ * l'hôpital (m) :: kórház
+ + le mur :: fal
+ + le chat :: macska
+ * la table :: asztal
+* VERBES
+ * il faut :: kelleni
+ * il manque :: hiányozni
+ * amener :: hozni || emmener || apporter
+ * coller :: ragasztani
+ * déranger :: zavarni
+ * emmener :: elvinni || amener || apporter
+ * réessayer :: újrapróbálkozni
+ * taper :: gépelni
+ * punir :: megbüntetni
+ * tomber :: esni
+ * rouler :: gurulni
+ * gêner :: idegesíteni
+ * se heuter :: összeütközni
+ * se balader :: sétálgatni
+ * décrocher :: levenni
+ * travailler :: dolgozni
+ * apprendre :: tanulni
+ * écouter :: hallgatni
+ * regarder :: nézni
+ * répondre :: válaszolni
+ * ouvrir :: kinyitni
+ * fermer :: becsukni
+ * comprendre :: érteni
+ * lever :: felállni
+ * asseyer :: ülni
+ * finir :: befejezni
+ * mettre :: tenni
+ * lire :: olvasni
+ * faire :: csinálni
+ * peindre :: festeni
+ * danser :: táncolni
+ * se appeler :: hívni
+ * adorer :: imádni
+ * détester :: utálni
+ * préferer :: kedvelni (máshoz képest)
+ * tomber :: esni
+ * déjeuner :: ebédelni
+ * prêter :: kölcsönözni
+ * peigner :: fésülködni
+ * se habiller :: öltözködni
+ * couper :: megszakadni
+* ADJECTIFS
+ * grave :: súlyos <> gracieux
+ * gracieux, gracieuse :: könnyed <> grave
+ * choqué :: sokkos
+ * tôt :: korán
+ * terrible :: szörnyű
+ * facile :: könnyű
+ * difficile :: nehéz <> facile
+ * petit, petite :: kicsi
+ * grand, grande :: nagy
+ * sympatique :: szimpatikus
+ * antipatique :: antipatikus
+ * intelligent, intelligente :: okos
+ * bête :: buta
+ * brun, brune :: barnahajú
+ * blond, blonde :: szőke
+ * gros, grosse :: kövér
+ * mince :: vékony
+ * maigre :: sovány
+ * sympa :: szimpi
+ * joli, jolie :: szép
+ * laid, laide :: csúnya
+ * fort, forte :: erős
+ * jeune :: fiatal
+ * vieux, vieille, vieil :: öreg
+ * élégant, élégante :: elegáns
+ * romantique :: romantikus
+ * souriant, souriante :: mosolygós
+ * timide :: félénk
+ * amusant, amusante :: szórakoztató
+ * courageux, courageuse :: bátor
+ * ennuyeux, ennuyeuse :: unalmas
+ * gentil, gentille :: kedves
+ * méchant, méchante :: gonosz
+ * rêveur, rêveuse :: álmodozó
+ * fameux, fameuse :: híres
+ * nerveux, nerveuse :: ideges
+ * oublier :: felejteni
+* LA MAISON
+ * la fenêtre :: ablak
+ * le tapis :: szőnyeg
+ * le rideau :: függöny
+ * le sol :: padló/föld || la terre
+ * la meuble :: bútor
+ * le canapé :: kanapé
+ * le sofa :: szófa
+ * la table de nuit :: éjjeliszekrény
+** LES CHAMBRES
+ + la chambre :: hálószoba
+ + le salon :: nappali
+ * la salle à manger :: étkező
+ * la salle de bains :: fürdőszoba
+ - l'antichambre (f) :: előszoba
+ - la chambre des enfants :: gyerekszoba
+ * le sous-sol :: alagsor
+* LES DIRECTIONS
+ * à gauche :: balra
+ * à droite :: jobbra
+ * au-dessous de :: alatt || sous
+ * à côté de :: mellett
+ * sur :: rá, rajta
+ * sous :: alá, alatta
+ * derrière :: mögé, mögött
+ * au milieu de :: között || entre || parmi
+ * devant :: előtt 
+ * en face de :: szembe, szemben
+ * ici :: ide, itt
+ * là-bas :: oda, ott (kötőjellel)
+ * en haut de :: tetejére, tetején
+ * la-haut :: fel, fent
+ * au coin de :: sarkára, sarkán
+ * parmi :: közöttük || entre || au milieu de
+ * au bord de :: szélére, szélén
+ * par :: keresztül
+ * dans :: -ba, -be; -ban, -ben
+ * devant :: elé; előtt
+ * sur :: -ra, -re; -on, -en, -ön
+ * sous :: alá; alatt || au-dessous de
+ * chez :: -hoz, -hez, -höz; -nál, -nél
+* LES NATIONALITÉ
+ * français, française :: francia
+ * anglais, anglaise :: angol
+ * hongrois, hongroise :: magyar
+ * allemand, allemande :: német
+ * espagnol, espagnole :: spanyol
+ * italien, italienne :: olasz
+ * américain, américaine :: amerikai
+* LES MUSIQUES
+ * le bruit :: zaj
+ * le rock :: rock
+ * la muqique pop :: popzene
+ * la chanson :: dal
+* LES VÊTEMENTS
+ * le pull :: pulcsi
+ * le slip :: női alsó
+ * le soutien-gorge :: melltartó
+ * le maillot :: trikó
+ * les chausettes (f) :: zokni
+ * le collant :: harinyanadrág
+ * les bas (m) :: harisnya
+ * la jarretelle :: harisnyatartó
+ * le tee-shirt :: póló
+ * le haut :: női felső
+ * le cardigan :: kardigán
+ * le gilet :: mellény
+ * le pantalon :: nadrág
+ * la jupe :: szoknya
+ * la mini-jupe :: miniszoknya
+ * le blouson :: dzseki
+ * l'imperméable (m) :: esőkabát
+ * le tailleur :: kosztüm
+ * la veste :: zakó
+ * la cravate :: nyakkendő
+ * le noeud papillon :: csokornyakkendő
+ * la chemise :: ing
+ * le chemisier :: blúz
+ * le pyjama :: pizsama
+ * le jean :: farmer
+ * la robe :: női egész ruha
+ * la robe de soirée :: estélyi ruha
+ * le bouton :: gomb
+ * boutonner :: begombol
+ * rayé, rayée :: csíkos
+ * à carreaux :: kockás
+ * à pois :: pöttyös
+ * à fleurs :: virágos
+ * à motifs :: mintás
+ * la manche :: ruha ujja
+ * le col :: ruha nyaka
+ * la jambe :: nadrág szára
+ * le manteau :: kabát || la canne
+ * la canne :: kabát || le manteau
+ * le parapluie :: esernyő
+ * les gants (m) :: kesztyű
+* LES COULEURS
+  * bleu, bleue :: kék
+  * blanc, blanche :: fehér
+  * gris, grise :: szürke
+  * vert, verte :: zöld
+  * noir, noire :: fekete
+  * violet, violette :: lila
+  * rouge :: piros
+  * jaune :: sárga
+  * orange :: narancssárga
+  * rose :: rószaszín
+  * marron :: barna
+  * beige :: bézs
+* LES ACCESSOIRES
+  * le collier :: nyaklánc
+  * la montre :: karóra
+  * la montre de poche :: zsebóra
+  * le bracelet :: karkötő
+  * la bague :: gyűrű
+  * le sac :: táska
+  * les chaussures (f) :: cipő
+  * le chapeau :: kalap
+  * le foulard :: sál || l'écharpe (f)
+  * l'écharpe (f) :: sál ||  le foulard
+  * le ceinture :: öv
+* LES EXPRESSIONS
+ * Je ne t'entends à peine. :: Alig hallak.
+ * presque :: majdnem
+ * d'ailleurs :: különben is
+ * carrément :: egyenesen (valamilyen)
+ * être en retard :: késésben lenni
+ * de rien :: semmi
+ * Bonjour! :: Jónapot!
+ * Enchanté. Enchentée. :: Örvendek.
+ * Salut! :: Hello! / Bye!
+ * Au revoir! :: Viszlát!
+ * tout le monde :: mindenki
+ * puis :: utána || aprés
+ * C'est pourqui :: Ezért...
+ * Mon Dieu! :: Istenem!
+ * avoir raison :: igazának lenni
+ * voilà, voici :: íme (kétféleképpen)
+ * Et puis ça m'est égal. :: Nekem egyébként is mindegy.
+ * ben :: hát
+ * Je m'en fous! :: Szarok rá!
+ * Je vais devenir fou! :: Megőrülök!
+ * J'en ai marre de ton goût! :: Elegen van az ízlésedből!
+ * Non, mais je rêve! :: Na ne... biztos álmodok!
+* LES PROFESSIONS
+ * l'informaticien :: informatikus
+ * le lycéen, la lycéenne :: középiskolás
+ * le sécretaire, la sécretaire :: titkár/titkárnő
+ * l'élève :: tanuló
+ * l'étudiant, l'étudiante :: egyetemista
+ * l'acteur, l'actrice :: színész, színésznő
+ * l'employé, l'employée :: alkalmazott
+ * le professeur, la professeur :: tanár
+ * l'écrivain :: író
+ * le médecin, la médecin :: orvos
+ * l'ingénieur :: mérnök
+ * le journalist, la journaliste :: újságíró
+* LES SPORTS
+ * le ski :: sízés
+ * le footbal :: labdarúgás
+ * le jogging :: jogging
+ * le tennis :: tenisz
+* LES SUJECTS
+ * la biologie :: biológia
+ * la géographie :: földrajz
+ * la grammaire :: nyelvtan
+ * la gymnastique :: testnevelés || l'éducation physique et sportive
+ * l'éducation physique et sportive :: testnevelés || la gymnastique
+ * l'histoire (f) :: történelem
+ * la langue étrangère :: idegen nyelv
+ * la littérature :: irodalom
+ * les maths (f) :: matek
+ * la musique :: ének-zene
+ * la physique :: fizika
+ * les sciences (f) :: természettudományok
+ * le sport :: sport
+ * la physique :: fizika
+ * les maths (f) :: matematika
+ * la chimie :: kémia
+ * la langue :: nyelv
+ * la langue vivante :: élő nyelv
+ * l'histoire-géographie (f) :: történelem-földrajz
+ * les arts plastiques (m) :: képzőművészetek
+ * le dessin :: rajz
+ * l'éducation musicale :: zenei oktatás (?)
+ * la technologie :: technika
+ * la techno :: számtech
+* LES NOURRITURES
+ * le pain :: kenyér
+ * l'oeuf :: tojás
+ * la baguette :: bagett
+ * le pain au chocolat :: csokis párna
+ * la brioche :: briós
+ * la glace :: fagylalt
+ * la crêpe :: palacsinta
+ * le piano :: zongora
+ * la pomme :: alma
+ * l'orange (m) :: narancs
+ * la poire :: körte
+ * la cerise :: cseresznye
+ * la fraise :: eper
+ * la prune :: szilva
+ * la banane :: banán
+ * la framboise :: szamóca
+ * la salade verte :: zöldsaláta
+ * la carotte :: répa
+ * la pomme de terre :: burgonya
+ * le poivron :: paprika
+ * le chou :: káposzta
+ * le frére :: fiútestvér
+ * le fils :: fiúgyermek
+ * le chou-fleur :: karfiol
+ * les haricots verts (m) :: zöldbab
+ * les haricots blancs (m) :: fehérbab
+ * le petit pois :: borsó
+ * le lait :: tej
+ * le fromage :: sajt
+ * le yaourt :: joghurt
+ * le beurre :: vaj
+ * la crème de Chantilly :: tejszín
+ * la crème fraîche :: tejföl
+ * la viande :: hús
+ * du boeuf :: marhahús
+ * du porc :: disznóhús
+ * du poulet :: csirkehús
+ * du poisson :: halhús
+ * du mouton :: birkahús
+ * le poulet, la poulette :: csirke
+ * le restaurant :: étterem
+ * le fastfood :: gyorsbüfé
+ * la pizzeria :: pizzéria
+ + l'entrée (f) :: előétel || le hors-d'oeuvre (m)
+ + le hors-d'oeuvre (m) :: előétel || l'entrée
+ + le plat principal :: főétel
+ + le dessert :: desszert
+ - la salade russe :: francia saláta
+ - le thon :: tonhal
+ - le crabe, la crabe :: rák
+ - la moule :: kagyló
+ - la raie :: rája
+ - l'escargot (m) :: csiga
+ - l'huître (f) :: osztriga
+ - le homard :: homár
+ - les fruits de mer (m) :: tenger gyümölcsei (p)
+ - le lapin :: nyúl
+ + l'homme (m) :: férfi
+ * le parc :: park
+ * le rôti :: sülthús || le steak-frites
+ * pané, panée :: rántott
+ * cuit, cuite :: főtt
+ * les frites (f) :: sültkrumpli
+ * le riz :: rizs
+ * la pâte :: tészta
+ * la mayonnaise :: majonéz
+ * le ketchup :: ketchup
+ * le maïs :: kukorica
+ * le jardin :: kert
+ * le mari :: férj
+* LES BOISSONS
+ * le coca :: kóla
+ * le jus de fruit :: gyümölcslé
+ * le thé :: tea
+ * le café :: kávé
+ * l'eau (m) :: víz
+ * la bière :: sör
+* LES PLATS
+ * la salade de poulet :: csirkesaláta
+ * la viande grillée :: grillhús
+ * le poisson :: hal
+ * le steak-frites :: sülthús || le rôti
+ * le plat de jour :: napi ajánlat
+* LES SNACK
+ * le hamburger :: hamburger
+ * le sandwich (au jambon) :: (sonkás)szendvics
+ * le croque-monsieur :: sajtos-sonkás melegszendvics
+* LES DESSERTS
+ * le gâteau au chocolat :: csokitorta
+ * la tarte aux pommes :: almatorta
+ * la glace à la vanille :: vaníliafagyi
+ * la crêpe :: palacsinta
+ * la crême brûlée :: sültkrém (?)
+ * le fruit :: gyümölcs
+ * le clafoutis :: meggyes pite
+ * la flaugnarde :: nem-meggyes pite
+* LES MAGASINS D'ALIMENTATION
+ * le marché :: piac
+ * la boulangerie :: pékség
+ * la pâtisserie :: cukrászda
+ * la boucherie :: hentesüzlet
+ * l'épicerie (f) :: vegyesbolt
+ * la poissonerie :: halbolt
+ * le primeur :: zöldséges
+ * le bureau de tabac :: traffik
+ * le boulanger, la boulangère :: pék
+ * le pâtissier, la pâtissière :: cukrász
+ * le boucher, la bouchère :: hentes
+ * l'épicier, l'épicièr :: vegyesboltos
+ * le marchand, la marchand :: kereskedő
+ * le buraliste, la buraliste :: trafikos
+* LE PETIT-DÉJEUNER
+ * la tasse de café :: a csésze kávé
+ * le bol de café au lait :: a bögre tejes kávé
+ * la tartine beurrée :: vajas piritós
+ * la tartine à la confiture :: lekváros pirítós
+ * le croissant :: croissant
+* LE DÎNER
+  * le potage :: krémleves
+  * la soupe :: leves
+* LES QUANTITÉS
+  * la bouteille (de vin) :: a üveg (bor)
+  * le litre (d'eau) :: a liter (víz)
+  * le demi-litre (de lait) :: fél liter (tej)
+  * le kilo (de pommes) :: a kiló (alma)
+  * 500 grammes (de sucre) :: 500 gramm (cukor)
+  * le paquet (de chewing-gum) :: a csomag (rágó)
+  * la tranche (de jambon) :: a szelet (sonka)
+  * le quart (de vin) :: a negyedliter (bor)
+  * la boîte (de petits pois) :: a konzervdoboz (borsó)
+  * le pot (de yaourt) :: a műanyagpohár (joghurt)
+  * la part (de gâteau) :: a szelet (süti)
+  * le morceau (de fromage) :: a darab (sajt)
+* LES NOMS DE PAYS
+ * Corse (f) :: Korzika
+ * le Portugal :: Portugália
+ * le Canada :: Kanada
+ * le Québec :: Quebec
+ * le Japon :: Japán
+ * le Mexique :: Mexikó
+ * le Maroc :: Marokkó
+ * la France :: Franciaország
+ * la Hongrie :: Magyarország
+ * la Belgique :: Belgium
+ * la Slovaquie :: Szlovákia
+ * la Suisse :: Svájc
+ * la Suède :: Svédország
+ * la Grèce :: Görögország
+ * la Grande-Bretagne :: Nagy-Britannia
+ * la République thèque :: Csehország
+ * l'Allemagne (f) :: Németország
+ * l'Espagne (f) :: Spanyolország
+ * l'Italie (f) :: Olaszország
+ * l'Autriche (f) :: Ausztria
+ * l'Angleterre (f) :: Anglia
+ * l'Union européenne :: Európai Unió
+ * les États-Unis (m) :: Egyesült Államok
+ * les Bahamas :: Bahamák
+ * Israël (m) :: Izrael
+ * Monaco (f) :: Monaco
+ * Chypre :: Ciprus
+ * Haïti :: Haiti
+* LES NOMBRES
+ * un, une :: egy
+ * deux :: kettő
+ * trois :: három
+ * quatre :: négy
+ * cinq :: öt
+ * six :: hat
+ * sept :: hét
+ * huit :: nyolc
+ * neuf :: kilenc
+ * dix :: tíz
+* LA CIRCULATION
+ * prendre :: befordulni, vmvel menni, etc.
+ * continuer :: tovább menni
+ * tourner :: fordulni
+ * descendre :: leszállni
+ * faire attention à qc :: odafigyelni vmre
+ * traverser :: keresztezni
+ * longer :: végigmenni valami mentén
+ * suivre :: követni
+ * circuler :: utazni || voyager
+ * se trouver :: találni magát
+ * le terminus :: végállomás
+ * l'arrêt (m) :: megálló
+ * la rue :: utca
+ * le coin :: sarok
+ * la mairie :: polgármesteri hivatal
+ * le bâtiment :: épület
+ * l'avenue (f) :: körút
+ * le boulevard :: sugárút
+ * la place :: tér
+ * la ligne :: vonal
+ * la direction :: irány
+ * la station :: metróállomás
+ * le feu (rouge) :: (piros) lámpa
+ * tout droit :: egyenesen előre
+ * à côté de :: mellette
+ * devant :: előtt (helyben)
+ * derrière :: mögött
+ * entre :: között
+ * jusqu'à :: -ig
+ * à domicile :: otthon (helyhatározó) || à la maison || chez nous
+* LE VISAGE
+ * le cou :: nyak
+ * les cheveux (m) :: haj
+ * l'oeil (m), les yeux :: szem, szemek
+ * l'oreille (f) :: fül
+ * le front :: homlok
+ * la moustache :: bajusz
+ * la barbe :: szakáll 
+ * la bouche :: száj
+ * le nez :: orr
+* LE CORPS
+ * la main :: kéz
+ * l'épaule :: váll
+ * le bras :: kar
+ * la jambe :: láb
+ * le pied :: lábfej
+ * la langue :: nyelv
+ * les dents (m) :: fogak
+ * l'estomac (m) :: gyomor
+ * le coeur :: szív
+ * la gorge :: torok
+ * les doigts (m) :: újjak
+ * le ventre :: has
+ * la poitrine :: mellkas
+* LA MÉTÉOROLOGIE
+  * le soleil :: nap
+  * le pluie :: eső
+  * la neige :: hó
+  * le vent :: szél
+  * le brouillard :: köd
+  * l'orage (m) :: zivatar
+  * Il fait soleil. :: Süt a nap.
+  * Il pleut. :: Esik.
+  * pleuvoir :: esni (eső)
+  * Il neige. :: Havazik.
+  * neiger :: havazni
+  * Il fait du vent. :: Fúj a szél. | Il y a du vent.
+  * Il y a du vent. :: Fúj a szél. | Il fait du vent.
+  * Il fait du brouillard. :: Ködös az idő. | Il y a du brouillard.
+  * Il y a du brouillard. :: Ködös az idő. | Il fait du brouillard.
+  * Il y a un orage. :: Zivatar van.
+  * le nuage :: felhő
+  * le ciel :: ég
+  * la température :: hőmérséklet
+  * le gel :: fagy
+  * nuageux, nuageuse :: felhős
+  * Le ciel est couvert. :: Borult az ég.
+  * Le ciel est dégagé. :: Derült az ég.
+  * Il fait combien aujourd'hui? :: Hány fok van ma?
+  * Il fait deux degrés. :: Két fok van.
+  * Il gèle. :: Fagy.
+  * Il fait moins cinq. :: Mínusz öt fok van.
+  * Quel temps fait-il? :: Milyen idő van?
+  * Il fait beau. :: Szép idő van.
+  * Il fait mauvais. :: Rossz idő van.
+  * Il fait froid. :: Hideg van.
+  * Il fait chaud. :: Meleg van.
+  * Il fait frais. :: Friss idő van.
+  * Il fait bon. :: Jó idő van.
+  * Il fait lourd. :: Nyomott idő van.
+  * l'arc-en-ciel (m) :: szivárvány
+* LES APPAREILS
+** LES ORDINATEURS
+   * le mél :: email || le courriel
+   * C'est sec, c'est sans âme. :: Ez száraz, ez lelketlen.
+   * Je ne pourrais plus me passer d'Internet. :: Nem vagyok már meg Internet nélkül.
+   * Je suis tout le temps collé à mon ordinateur. :: Állandóan össze vagyok ragadva a számítógépemmel.
+   * T'écris comme un chat. :: Úgy írsz, mint egy macska.
+   * C'est impossible de lire tes lettres. :: Lehetetlen elolvasni a leveleidet.
+   * le courriel :: email || le mél
+   * le mot de passe :: jelszó
+   * règler :: szabályozni, beállítani
+   * le son :: hang (gépi)
+   * le son fort :: hangos hang
+   * le son bas :: halk hang
+   * effacer :: kitöröl
+   * l'erreur (m) :: hiba
+   * l'adresse électronique (f) :: email cím
+   * le jeu de rôles :: szerepjáték
+   * être passionné pour qc, être passionnée pour qc :: rajongani vmért
+   * créer le blog :: létrehozni a blogot
+   * être nul en informatique, être nulle en informatique :: nem konyítani a számítógépekhez
+** LES APPAREILS AUDIO-VISUELS
+   * l'ordinateur (portable) (m) :: (hordozható) számítógép
+   * la sonorisation :: hangrendszer
+   * le téléphone (portable) :: (mobil)telefon
+   * l'autoradio (m) :: autórádió
+   * le lecteur de CD :: CD olvasó
+   * le lecteur de DVD :: DVD olvasó
+   * le décodeur :: dekódoló
+   * l'antenne parabolique (f) :: parabola antenna
+   * la télévision par câble :: kábeltelevízió
+   * la mini-chaîne :: hifi torony
+   * le baladeur :: zenelejátszó
+   * l'imprimeur (m) :: nyomtató
+   * l'écran plat :: plazmatévé / vékony monitor
+   * le photocopieur :: fénymásoló
+   * la télécommande :: távkapcsoló
+   * le bouton :: gomb
+   * la touche :: billentyűzet
+** LES APPAREILS MÉNAGERS
+   * le mixer :: rúdmixer
+   * la friteuse :: olajsütő
+   * la cafetière :: kávéfőző
+   * le micro :: mikro
+   * le lave-linge :: mosógép
+   * le lave-vaisselle :: mosogatógép
+   * le sèche-cheveux :: hajszárító
+   * le raisor électrique :: elektromos borotva
+** VERBES DES APPAREILS
+   * mettre en marche :: beüzemelni
+   * allumer :: bekapcsol
+   * arrêter :: kikapcsol | éteindre
+   * éteindre :: kikapcsol | arrêter
+   * appuyer sur qc :: megnyomni vmt
+   * introduire :: beletenni
+   * retirer :: kivenni, kihúzni
+   * enregistrer :: felvenni (médiára)
+   * marcher :: működni | fonctionner
+   * fonctionner :: működni | marcher
+   * tomber en panne, être en panne :: elromlani (2x)
+   * programmer :: programozni
+   * télécharger :: letölteni
+* LE SEMAINE
+  * lundi :: hétfő
+  * mardi :: kedd
+  * mercredi :: szerda
+  * jeudi :: csütörtök
+  * vendredi :: péntek
+  * samedi :: szombat
+  * dimanche :: vasárnap
+* LES SAISONS
+  * l'été (m) :: nyár
+  * l'hiver (f) :: tél
+  * le printemps :: tavasz
+  * l'automne (m) :: ősz
+* LES VOLS
+  * le voleur, la voleur :: rabló
+  * le cambrioleur :: betörő
+  * le malfaiteur :: bűnöző
+  * le pickpocket :: zsebtolvaj
+  * le hold-up :: bankrablás
+  * voler :: lopni, repülni
+  * cambrioler :: rabolni
+  * l'ordre public (m) :: közrend
+  * les biens :: javak
+  * le sans domicile fixe, la sans domicile fixe :: hajléktalan
+  * le sans papier, la sans papier :: bevándorló
+* LA LETTRE
+  * Je vous remercie. :: Köszönöm Önnek.
+  * Je te remercie d'avance. :: Előre is köszönöm.
+  * Je t'embrasse! :: Ölellek!

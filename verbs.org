@@ -1,0 +1,34 @@
+* PARTICIPE PASSÉ
+  * été :: être
+  * eu :: avoir
+  * fait :: faire
+  * pris :: prendre
+  * dit :: dire
+  * pu :: pouvoir
+  * su :: savoir
+  * voulu :: vouloir
+  * ouvert :: ouvrir
+  * lu :: lire
+  * vu :: voir
+  * bu :: boire
+  * cru :: croire
+  * couru :: courir
+  * dû :: devoir
+  * mis :: mettre
+  * connu :: connaître
+  * il a fallu :: il faut
+* FUTUR SIMPLE
+  * ser- :: être
+  * aur- :: avoir
+  * ir- :: aller
+  * viendr- :: venir
+  * fer- :: faire
+  * sau- :: savoir
+  * pourr- :: pouvoir
+  * voudr- :: vouloir
+  * verr- :: voir
+  * devr- :: devoir
+  * enverr- :: envoyer
+  * mourr- :: mourir
+  * courr- :: courir
+  * il faudr- :: il faut
